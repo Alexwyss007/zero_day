@@ -1,0 +1,1 @@
+This code aims to decribe what happens when you run a uname command
